@@ -1,0 +1,23 @@
+T:\Publica\PythonII\Daniel Almeida>git init
+Initialized empty Git repository in //TAU-EDUFS01/TAU-TURMAS/Publica/PythonII/Daniel Almeida/.git/
+
+T:\Publica\PythonII\Daniel Almeida>git config --global user.name "Dan1Almeida"
+
+T:\Publica\PythonII\Daniel Almeida>git config --global user.email "daniel.dnlsilva7@gmail.com"
+
+T:\Publica\PythonII\Daniel Almeida>git config --global credential.helper cache
+
+T:\Publica\PythonII\Daniel Almeida>git config --global credential.helper store
+
+T:\Publica\PythonII\Daniel Almeida>git remote add origin https://github.com/Dan1Almeida/Python-intro.git
+
+T:\Publica\PythonII\Daniel Almeida>git branch -M main
+
+T:\Publica\PythonII\Daniel Almeida>git status
+On branch main
+
+T:\Publica\PythonII\Daniel Almeida>git add .
+
+T:\Publica\PythonII\Daniel Almeida>git commit -m "Inicialização do Projeto"
+
+T:\Publica\PythonII\Daniel Almeida>git push -u origin main
